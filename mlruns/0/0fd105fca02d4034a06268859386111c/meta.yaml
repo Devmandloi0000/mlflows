@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/0fd105fca02d4034a06268859386111c/artifacts
+end_time: 1698866443744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0fd105fca02d4034a06268859386111c
+run_name: efficient-goat-841
+run_uuid: 0fd105fca02d4034a06268859386111c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698866443227
+status: 3
+tags: []
+user_id: PCLP
