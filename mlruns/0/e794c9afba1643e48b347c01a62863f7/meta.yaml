@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/e794c9afba1643e48b347c01a62863f7/artifacts
+end_time: 1698944114290
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e794c9afba1643e48b347c01a62863f7
+run_name: exultant-quail-721
+run_uuid: e794c9afba1643e48b347c01a62863f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944109743
+status: 3
+tags: []
+user_id: PCLP

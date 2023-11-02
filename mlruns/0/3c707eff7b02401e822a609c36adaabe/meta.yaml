@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/3c707eff7b02401e822a609c36adaabe/artifacts
+end_time: 1698944284024
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c707eff7b02401e822a609c36adaabe
+run_name: intrigued-mouse-283
+run_uuid: 3c707eff7b02401e822a609c36adaabe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944279364
+status: 3
+tags: []
+user_id: PCLP

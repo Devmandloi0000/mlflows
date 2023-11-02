@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/b35ba002ba3d4724a63791f7194bfedc/artifacts
+end_time: 1698944276028
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b35ba002ba3d4724a63791f7194bfedc
+run_name: charming-grouse-919
+run_uuid: b35ba002ba3d4724a63791f7194bfedc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944272015
+status: 3
+tags: []
+user_id: PCLP

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/93add7b93eee4e50a13933d1bb96f6d8/artifacts
+end_time: 1698944122224
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93add7b93eee4e50a13933d1bb96f6d8
+run_name: thundering-owl-309
+run_uuid: 93add7b93eee4e50a13933d1bb96f6d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944117897
+status: 3
+tags: []
+user_id: PCLP

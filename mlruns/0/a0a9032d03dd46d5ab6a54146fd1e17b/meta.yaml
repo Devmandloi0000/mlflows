@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/a0a9032d03dd46d5ab6a54146fd1e17b/artifacts
+end_time: 1698944235678
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0a9032d03dd46d5ab6a54146fd1e17b
+run_name: capricious-finch-883
+run_uuid: a0a9032d03dd46d5ab6a54146fd1e17b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944231148
+status: 3
+tags: []
+user_id: PCLP

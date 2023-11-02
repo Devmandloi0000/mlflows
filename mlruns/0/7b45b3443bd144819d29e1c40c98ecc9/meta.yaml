@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/7b45b3443bd144819d29e1c40c98ecc9/artifacts
+end_time: 1698944074982
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b45b3443bd144819d29e1c40c98ecc9
+run_name: sassy-conch-466
+run_uuid: 7b45b3443bd144819d29e1c40c98ecc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944070707
+status: 3
+tags: []
+user_id: PCLP

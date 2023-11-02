@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/7bb8ea603e4540b595adfda9629fdc83/artifacts
+end_time: 1698944422378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bb8ea603e4540b595adfda9629fdc83
+run_name: bedecked-gnu-839
+run_uuid: 7bb8ea603e4540b595adfda9629fdc83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944417086
+status: 3
+tags: []
+user_id: PCLP

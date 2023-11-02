@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/f546d1df8e6c4ee0ae57619131e51fc7/artifacts
+end_time: 1698944292256
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f546d1df8e6c4ee0ae57619131e51fc7
+run_name: useful-bear-350
+run_uuid: f546d1df8e6c4ee0ae57619131e51fc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944287443
+status: 3
+tags: []
+user_id: PCLP

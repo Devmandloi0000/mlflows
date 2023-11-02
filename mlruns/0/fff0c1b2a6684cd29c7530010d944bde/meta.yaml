@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/fff0c1b2a6684cd29c7530010d944bde/artifacts
+end_time: 1698942648806
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fff0c1b2a6684cd29c7530010d944bde
+run_name: shivering-dove-276
+run_uuid: fff0c1b2a6684cd29c7530010d944bde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698942641153
+status: 3
+tags: []
+user_id: PCLP

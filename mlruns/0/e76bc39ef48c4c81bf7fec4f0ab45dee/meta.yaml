@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/e76bc39ef48c4c81bf7fec4f0ab45dee/artifacts
+end_time: 1698944260130
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e76bc39ef48c4c81bf7fec4f0ab45dee
+run_name: respected-hare-746
+run_uuid: e76bc39ef48c4c81bf7fec4f0ab45dee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944255568
+status: 3
+tags: []
+user_id: PCLP

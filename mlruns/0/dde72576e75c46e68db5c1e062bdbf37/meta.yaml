@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/dde72576e75c46e68db5c1e062bdbf37/artifacts
+end_time: 1698944137667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dde72576e75c46e68db5c1e062bdbf37
+run_name: legendary-shark-7
+run_uuid: dde72576e75c46e68db5c1e062bdbf37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944133356
+status: 3
+tags: []
+user_id: PCLP

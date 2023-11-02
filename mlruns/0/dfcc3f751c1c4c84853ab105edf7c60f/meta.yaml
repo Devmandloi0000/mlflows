@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/dfcc3f751c1c4c84853ab105edf7c60f/artifacts
+end_time: 1698944359111
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dfcc3f751c1c4c84853ab105edf7c60f
+run_name: peaceful-gnat-930
+run_uuid: dfcc3f751c1c4c84853ab105edf7c60f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944353984
+status: 3
+tags: []
+user_id: PCLP

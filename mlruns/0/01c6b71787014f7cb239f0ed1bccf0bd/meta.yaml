@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/01c6b71787014f7cb239f0ed1bccf0bd/artifacts
+end_time: 1698944211285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01c6b71787014f7cb239f0ed1bccf0bd
+run_name: judicious-gnat-0
+run_uuid: 01c6b71787014f7cb239f0ed1bccf0bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944206620
+status: 3
+tags: []
+user_id: PCLP

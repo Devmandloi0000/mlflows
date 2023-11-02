@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/8223db7b624c44de8d69f2435cde1d10/artifacts
+end_time: 1698944243998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8223db7b624c44de8d69f2435cde1d10
+run_name: skittish-dove-369
+run_uuid: 8223db7b624c44de8d69f2435cde1d10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944239276
+status: 3
+tags: []
+user_id: PCLP

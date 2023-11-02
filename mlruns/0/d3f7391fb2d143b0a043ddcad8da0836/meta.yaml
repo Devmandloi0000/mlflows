@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/d3f7391fb2d143b0a043ddcad8da0836/artifacts
+end_time: 1698944350388
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3f7391fb2d143b0a043ddcad8da0836
+run_name: illustrious-wasp-851
+run_uuid: d3f7391fb2d143b0a043ddcad8da0836
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944346155
+status: 3
+tags: []
+user_id: PCLP

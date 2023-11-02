@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/64aab4e5ba9745ecb2dc5fe04995b4ea/artifacts
+end_time: 1698944394196
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64aab4e5ba9745ecb2dc5fe04995b4ea
+run_name: unruly-gnu-490
+run_uuid: 64aab4e5ba9745ecb2dc5fe04995b4ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944389077
+status: 3
+tags: []
+user_id: PCLP

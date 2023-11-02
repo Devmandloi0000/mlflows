@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/abb1425f2bae45c59de73ea7b5c431d2/artifacts
+end_time: 1698944059364
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abb1425f2bae45c59de73ea7b5c431d2
+run_name: casual-cub-837
+run_uuid: abb1425f2bae45c59de73ea7b5c431d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944055101
+status: 3
+tags: []
+user_id: PCLP

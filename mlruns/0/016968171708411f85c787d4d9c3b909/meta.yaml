@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/016968171708411f85c787d4d9c3b909/artifacts
+end_time: 1698944202885
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 016968171708411f85c787d4d9c3b909
+run_name: victorious-goose-706
+run_uuid: 016968171708411f85c787d4d9c3b909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944198822
+status: 3
+tags: []
+user_id: PCLP

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/686edbe121d642738f57a365577f34d9/artifacts
+end_time: 1698944227710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 686edbe121d642738f57a365577f34d9
+run_name: caring-colt-192
+run_uuid: 686edbe121d642738f57a365577f34d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944223134
+status: 3
+tags: []
+user_id: PCLP

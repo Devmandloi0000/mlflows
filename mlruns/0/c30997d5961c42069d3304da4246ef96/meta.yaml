@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/c30997d5961c42069d3304da4246ef96/artifacts
+end_time: 1698944067222
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c30997d5961c42069d3304da4246ef96
+run_name: clumsy-fawn-367
+run_uuid: c30997d5961c42069d3304da4246ef96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944062990
+status: 3
+tags: []
+user_id: PCLP

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/dde7de89efe54dd4b55f8bbab0a0cd17/artifacts
+end_time: 1698944145729
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dde7de89efe54dd4b55f8bbab0a0cd17
+run_name: stylish-gnu-45
+run_uuid: dde7de89efe54dd4b55f8bbab0a0cd17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944141136
+status: 3
+tags: []
+user_id: PCLP

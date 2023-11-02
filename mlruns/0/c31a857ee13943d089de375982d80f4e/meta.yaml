@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/c31a857ee13943d089de375982d80f4e/artifacts
+end_time: 1698944162002
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c31a857ee13943d089de375982d80f4e
+run_name: orderly-crab-228
+run_uuid: c31a857ee13943d089de375982d80f4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944157486
+status: 3
+tags: []
+user_id: PCLP

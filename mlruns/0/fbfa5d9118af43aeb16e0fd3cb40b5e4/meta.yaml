@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/fbfa5d9118af43aeb16e0fd3cb40b5e4/artifacts
+end_time: 1698944251930
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbfa5d9118af43aeb16e0fd3cb40b5e4
+run_name: invincible-bee-195
+run_uuid: fbfa5d9118af43aeb16e0fd3cb40b5e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944247335
+status: 3
+tags: []
+user_id: PCLP

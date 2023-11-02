@@ -74,7 +74,9 @@ def main(n_estimators, max_depth):
             mlflow.log_metric("aur_roc_score",roc)
             mlflow.log_metric("accuracy",ac)
             
-             
+            mlflow.sklearn.log_model(model,"randomforestmodel")
+            
+            
             print(f"accuracy :- {ac*100}")
             print(f"auc_roc :- {roc*100}")
         

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/0a19d6c4de5c46a999302f7cbea6ca51/artifacts
+end_time: 1698944268393
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a19d6c4de5c46a999302f7cbea6ca51
+run_name: respected-finch-408
+run_uuid: 0a19d6c4de5c46a999302f7cbea6ca51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944263818
+status: 3
+tags: []
+user_id: PCLP

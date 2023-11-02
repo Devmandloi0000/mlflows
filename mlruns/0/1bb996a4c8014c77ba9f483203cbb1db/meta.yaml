@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/1bb996a4c8014c77ba9f483203cbb1db/artifacts
+end_time: 1698944412967
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1bb996a4c8014c77ba9f483203cbb1db
+run_name: persistent-stoat-414
+run_uuid: 1bb996a4c8014c77ba9f483203cbb1db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944406952
+status: 3
+tags: []
+user_id: PCLP

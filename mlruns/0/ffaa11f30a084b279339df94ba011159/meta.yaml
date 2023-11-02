@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/ffaa11f30a084b279339df94ba011159/artifacts
+end_time: 1698944317673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffaa11f30a084b279339df94ba011159
+run_name: stately-slug-780
+run_uuid: ffaa11f30a084b279339df94ba011159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944312782
+status: 3
+tags: []
+user_id: PCLP

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/9acf8f66ffcb44af804f6fdf231e3b2b/artifacts
+end_time: 1698944334392
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9acf8f66ffcb44af804f6fdf231e3b2b
+run_name: spiffy-grouse-56
+run_uuid: 9acf8f66ffcb44af804f6fdf231e3b2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944329557
+status: 3
+tags: []
+user_id: PCLP

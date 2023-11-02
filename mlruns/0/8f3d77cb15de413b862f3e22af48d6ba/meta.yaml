@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/8f3d77cb15de413b862f3e22af48d6ba/artifacts
+end_time: 1698944403014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f3d77cb15de413b862f3e22af48d6ba
+run_name: nimble-wolf-815
+run_uuid: 8f3d77cb15de413b862f3e22af48d6ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944397793
+status: 3
+tags: []
+user_id: PCLP

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/b0335ccabf3046acb6e0b1b2bbd53212/artifacts
+end_time: 1698944178911
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0335ccabf3046acb6e0b1b2bbd53212
+run_name: valuable-jay-380
+run_uuid: b0335ccabf3046acb6e0b1b2bbd53212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944173575
+status: 3
+tags: []
+user_id: PCLP

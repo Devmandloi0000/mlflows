@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/8f841586e0f245e9b63b97909d1da07e/artifacts
+end_time: 1698944342685
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f841586e0f245e9b63b97909d1da07e
+run_name: righteous-deer-339
+run_uuid: 8f841586e0f245e9b63b97909d1da07e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944337851
+status: 3
+tags: []
+user_id: PCLP

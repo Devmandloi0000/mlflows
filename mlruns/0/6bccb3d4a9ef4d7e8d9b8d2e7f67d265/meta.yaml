@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/6bccb3d4a9ef4d7e8d9b8d2e7f67d265/artifacts
+end_time: 1698944368034
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6bccb3d4a9ef4d7e8d9b8d2e7f67d265
+run_name: abundant-mink-853
+run_uuid: 6bccb3d4a9ef4d7e8d9b8d2e7f67d265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944362906
+status: 3
+tags: []
+user_id: PCLP

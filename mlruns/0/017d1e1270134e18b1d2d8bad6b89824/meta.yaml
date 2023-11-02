@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/017d1e1270134e18b1d2d8bad6b89824/artifacts
+end_time: 1698942298471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 017d1e1270134e18b1d2d8bad6b89824
+run_name: glamorous-colt-753
+run_uuid: 017d1e1270134e18b1d2d8bad6b89824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698942298266
+status: 3
+tags: []
+user_id: PCLP

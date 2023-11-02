@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/b31bd5d553ca4a55828ff752ce965efa/artifacts
+end_time: 1698944195452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b31bd5d553ca4a55828ff752ce965efa
+run_name: popular-mouse-74
+run_uuid: b31bd5d553ca4a55828ff752ce965efa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944190969
+status: 3
+tags: []
+user_id: PCLP

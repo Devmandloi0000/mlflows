@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Working/CI_CD/mlruns/0/e13ad618e8614982872d572df13ed3ee/artifacts
+end_time: 1698944129749
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e13ad618e8614982872d572df13ed3ee
+run_name: melodic-shrike-372
+run_uuid: e13ad618e8614982872d572df13ed3ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698944125782
+status: 3
+tags: []
+user_id: PCLP
