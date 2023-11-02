@@ -8,7 +8,7 @@ import warnings
 warnings.filterwarnings('ignore')
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import ElasticNet
-from sklearn.metrics import mean_absolute_error,mean_squared_error,r2_score,accuracy_score
+from sklearn.metrics import mean_absolute_error,mean_squared_error,r2_score,accuracy_score,roc_auc_score
 from sklearn.model_selection import train_test_split
 
 import argparse
@@ -34,10 +34,11 @@ def evaluate_fun(y_pred,y_test):
         raise e
     
     
-def evaluate_randomforest(y_pred,y_test):
+def evaluate_randomforest(y_test,y_pred,y_pred_prob):
     try:
-        ac=accuracy_score(y_pred,y_test)
-        return ac
+        ac=accuracy_score(y_test,y_pred)
+        auc_roc = roc_auc_score(y_test,y_pred_prob,multi_class='ovr')
+        return ac, auc_roc
     except Exception as e:
         raise e
     
@@ -55,19 +56,27 @@ def main(n_estimators, max_depth):
         """model = ElasticNet()
         model.fit(X_train,y_train)
         y_pred = model.predict(X_test)"""
+        with mlflow.start_run():
+            
+            model = RandomForestClassifier(n_estimators=n_estimators,max_depth=max_depth)
+            model.fit(X_train,y_train)
+            y_pred = model.predict(X_test)
+            y_pred_prob = model.predict_proba(X_test)
+            ac,roc=evaluate_randomforest(y_test,y_pred,y_pred_prob) 
         
-        model = RandomForestClassifier(n_estimators=n_estimators,max_depth=max_depth)
-        model.fit(X_train,y_train)
-        y_pred = model.predict(X_test)
-        
-        """MAE,MSE,RMSE,R2=evaluate_fun(y_pred,y_test) 
-        print(f"mae:- {MAE*100}")
-        print(f"mse;- {MSE*100}")
-        print(f"Rmse:- {RMSE*100}")
-        print(f"R2:- {R2}") """   
-        
-        ac=evaluate_randomforest(y_test,y_pred)  
-        print(f"accuracy :- {ac*100}")
+            """MAE,MSE,RMSE,R2=evaluate_fun(y_pred,y_test) 
+            print(f"mae:- {MAE*100}")
+            print(f"mse;- {MSE*100}")
+            print(f"Rmse:- {RMSE*100}")
+            print(f"R2:- {R2}") """   
+            mlflow.log_param("n_estimators",n_estimators)
+            mlflow.log_param("max_deopth",max_depth)
+            mlflow.log_metric("aur_roc_score",roc)
+            mlflow.log_metric("accuracy",ac)
+            
+             
+            print(f"accuracy :- {ac*100}")
+            print(f"auc_roc :- {roc*100}")
         
     except Exception as e:
         raise e
